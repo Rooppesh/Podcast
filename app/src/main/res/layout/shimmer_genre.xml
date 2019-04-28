@@ -1,0 +1,163 @@
+<RelativeLayout
+
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <View
+        android:id="@+id/Discoveryshimmer_card1"
+        android:layout_height="40dp"
+        android:layout_width="match_parent"
+        android:layout_centerHorizontal="true"
+        android:background="#bbb"
+        android:layout_marginTop="10dp"
+        />
+
+
+    <View
+        android:id="@+id/Discoveryshimmer_card2"
+        android:layout_height="40dp"
+        android:layout_width="match_parent"
+        android:layout_centerHorizontal="true"
+        android:background="#bbb"
+        android:layout_below="@+id/Discoveryshimmer_card1"
+
+        android:layout_marginTop="10dp"
+        />
+    <View
+        android:id="@+id/Discoveryshimmer_card3"
+        android:layout_height="40dp"
+        android:layout_width="match_parent"
+        android:layout_centerHorizontal="true"
+        android:background="#bbb"
+        android:layout_below="@+id/Discoveryshimmer_card2"
+        android:layout_marginTop="10dp"
+        />
+    <View
+        android:id="@+id/Discoveryshimmer_card4"
+        android:layout_height="40dp"
+        android:layout_width="match_parent"
+        android:layout_centerHorizontal="true"
+        android:background="#bbb"
+        android:layout_below="@+id/Discoveryshimmer_card3"
+        android:layout_marginTop="10dp"
+        />
+
+    <View
+        android:id="@+id/Discoveryshimmer_card5"
+        android:layout_height="40dp"
+        android:layout_width="match_parent"
+        android:layout_centerHorizontal="true"
+        android:background="#bbb"
+        android:layout_below="@+id/Discoveryshimmer_card4"
+        android:layout_marginTop="10dp"
+        />
+    <View
+        android:id="@+id/Discoveryshimmer_card6"
+        android:layout_height="40dp"
+        android:layout_width="match_parent"
+        android:layout_centerHorizontal="true"
+        android:background="#bbb"
+        android:layout_below="@+id/Discoveryshimmer_card5"
+        android:layout_marginTop="10dp"
+        />
+    <View
+        android:id="@+id/Discoveryshimmer_card7"
+        android:layout_height="40dp"
+        android:layout_width="match_parent"
+        android:layout_centerHorizontal="true"
+        android:background="#bbb"
+        android:layout_below="@+id/Discoveryshimmer_card6"
+        android:layout_marginTop="10dp"
+        />
+    <View
+        android:id="@+id/Discoveryshimmer_card8"
+        android:layout_height="40dp"
+        android:layout_width="match_parent"
+        android:layout_centerHorizontal="true"
+        android:background="#bbb"
+        android:layout_below="@+id/Discoveryshimmer_card7"
+        android:layout_marginTop="10dp"
+        />
+    <View
+        android:id="@+id/Discoveryshimmer_card9"
+        android:layout_height="40dp"
+        android:layout_width="match_parent"
+        android:layout_centerHorizontal="true"
+        android:background="#bbb"
+        android:layout_below="@+id/Discoveryshimmer_card8"
+        android:layout_marginTop="10dp"
+        />
+    <View
+        android:id="@+id/Discoveryshimmer_card10"
+        android:layout_height="40dp"
+        android:layout_width="match_parent"
+        android:layout_centerHorizontal="true"
+        android:background="#bbb"
+        android:layout_below="@+id/Discoveryshimmer_card9"
+        android:layout_marginTop="10dp"
+        />
+
+
+    <View
+        android:id="@+id/Discoveryshimmer_card11"
+        android:layout_height="40dp"
+        android:layout_width="match_parent"
+        android:layout_centerHorizontal="true"
+        android:background="#bbb"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/Discoveryshimmer_card10"
+
+        />
+
+
+    <View
+        android:id="@+id/Discoveryshimmer_card12"
+        android:layout_height="40dp"
+        android:layout_width="match_parent"
+        android:layout_centerHorizontal="true"
+        android:background="#bbb"
+        android:layout_below="@+id/Discoveryshimmer_card11"
+
+        android:layout_marginTop="10dp"
+        />
+    <View
+        android:id="@+id/Discoveryshimmer_card13"
+        android:layout_height="40dp"
+        android:layout_width="match_parent"
+        android:layout_centerHorizontal="true"
+        android:background="#bbb"
+        android:layout_below="@+id/Discoveryshimmer_card12"
+        android:layout_marginTop="10dp"
+        />
+    <View
+        android:id="@+id/Discoveryshimmer_card14"
+        android:layout_height="40dp"
+        android:layout_width="match_parent"
+        android:layout_centerHorizontal="true"
+        android:background="#bbb"
+        android:layout_below="@+id/Discoveryshimmer_card13"
+        android:layout_marginTop="10dp"
+        />
+
+    <View
+        android:id="@+id/Discoveryshimmer_card15"
+        android:layout_height="40dp"
+        android:layout_width="match_parent"
+        android:layout_centerHorizontal="true"
+        android:background="#bbb"
+        android:layout_below="@+id/Discoveryshimmer_card14"
+        android:layout_marginTop="10dp"
+        />
+    <View
+        android:id="@+id/Discoveryshimmer_card16"
+        android:layout_height="40dp"
+        android:layout_width="match_parent"
+        android:layout_centerHorizontal="true"
+        android:background="#bbb"
+        android:layout_below="@+id/Discoveryshimmer_card15"
+        android:layout_marginTop="10dp"
+        />
+
+</RelativeLayout>

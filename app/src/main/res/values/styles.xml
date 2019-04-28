@@ -1,0 +1,41 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <declare-styleable name="MaxHeightScrollView">
+        <attr name="mhs_maxHeight" format="dimension" />
+    </declare-styleable>
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+    <style name="MyTheme" parent="android:Theme.Holo.Dialog">
+        <item name="android:alertDialogStyle">@style/CustomAlertDialogStyle</item>
+        <item name="android:windowBackground">@color/transparent</item>
+        <item name="android:textColorPrimary">#FFFFFF</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    <style name="CustomAlertDialogStyle">
+        <item name="android:bottomBright">#ffffff</item>
+        <item name="android:bottomDark">#ffffff</item>
+        <item name="android:bottomMedium">#ffffff</item>
+        <item name="android:centerBright">#ffffff</item>
+        <item name="android:centerDark">#ffffff</item>
+        <item name="android:centerMedium">#ffffff</item>
+        <item name="android:fullBright">#ffffff</item>
+        <item name="android:fullDark">#ffffff</item>
+        <item name="android:topBright">#ffffff</item>
+        <item name="android:topDark">#ffffff</item>
+    </style>
+</resources>
